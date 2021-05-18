@@ -1,6 +1,6 @@
 FROM ubuntu
 
-LABEL S.L.N.Reddy <slnreddy84@gmail.com>
+LABEL S L Narasimha Reddy <slnreddy84@gmail.com>
 
 WORKDIR /usr/apps/nodeapp/
 
